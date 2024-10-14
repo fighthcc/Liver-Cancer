@@ -15,7 +15,76 @@
     },
     "documents": {
         "title": "Documents",
-        "items": []
+        "items": [
+            {
+                "titles": "鉑特敏靜脈凍晶注射劑５０公絲：作為肝癌治療的藥物介紹",
+                "author": "Cancerfree",
+                "no": 1641,
+                "date": "2024/10/11",
+                "tags": [
+                    "Cisplatin",
+                    "醫學",
+                    "肝癌",
+                    "化療藥物",
+                    "鉑特敏靜脈凍晶注射劑５０公絲",
+                    "藥學"
+                ]
+            },
+            {
+                "titles": "普樂得星注射液０．５公絲/公撮 (PLATOSIN INJECTION 0.5MG/ML)：肝癌療藥物的詳細介紹",
+                "author": "Cancerfree",
+                "no": 1637,
+                "date": "2024/10/11",
+                "tags": [
+                    "Cisplatin",
+                    "化療",
+                    "藥物",
+                    "肝癌",
+                    "鉑類藥物",
+                    "普樂得星注射液０．５公絲/公撮",
+                    "PLATOSIN INJECTION 0.5MG/ML"
+                ]
+            },
+            {
+                "titles": "深入了解『意欣』杜索拉凍晶注射劑：肝癌治療藥品介紹",
+                "author": "Cancerfree",
+                "no": 1629,
+                "date": "2024/10/11",
+                "tags": [
+                    "肝癌",
+                    "肝癌治療",
+                    "抗癌藥物",
+                    "抗腫瘤藥物",
+                    "意欣杜索拉凍晶注射劑"
+                ]
+            },
+            {
+                "titles": "達必素注射劑（DOXORUBICIN-BRISTOL）用於肝癌的詳細介紹",
+                "author": "Cancerfree",
+                "no": 1617,
+                "date": "2024/10/11",
+                "tags": [
+                    "藥品",
+                    "繁體中文",
+                    "肝癌",
+                    "達必素注射劑",
+                    "DOXORUBICIN-BRISTOL",
+                    "細胞毒性藥物"
+                ]
+            },
+            {
+                "titles": "深入了解待明必信靜脈凍晶注射劑１０公絲：肝癌治療藥物",
+                "author": "Cancerfree",
+                "no": 1612,
+                "date": "2024/10/11",
+                "tags": [
+                    "肝癌",
+                    "抗癌藥",
+                    "抗腫瘤",
+                    "待明必信靜脈凍晶注射劑"
+                ]
+            }
+        ]
     },
     "ad1": {
         "image": "./images/工作區域 1.jpg",

@@ -17,31 +17,6 @@
         "title": "Documents",
         "items": [
             {
-                "titles": "福特喜膠囊 FLACIL CAPSULES介紹",
-                "author": "Cancerfree",
-                "no": 2087,
-                "date": "2024/10/28",
-                "tags": [
-                    "福特喜膠囊",
-                    "FLACIL CAPSULES",
-                    "抗生素",
-                    "細菌感染",
-                    "病毒感染",
-                    "真菌感染",
-                    "寄生蟲感染"
-                ],
-                "website": [
-                    "Lung Cancer",
-                    "Breast Cancer",
-                    "Gastric Cancer",
-                    "Esophageal Cancer",
-                    "Colorectal Cancer",
-                    "Pancreatic Cancer",
-                    "Ovarian Cancer",
-                    "Liver Cancer"
-                ]
-            },
-            {
                 "titles": "鉑力定注射劑１０公絲對於癌症治療的全面介紹",
                 "author": "Cancerfree",
                 "no": 2051,
@@ -439,99 +414,6 @@
                     "Colorectal Cancer",
                     "Brain tumor",
                     "Oral Cancer"
-                ]
-            },
-            {
-                "titles": "肝癌復發的詳細介紹",
-                "author": "Cancerfree",
-                "no": 747,
-                "date": "2024/10/07",
-                "tags": [
-                    "健康",
-                    "醫學",
-                    "疾病管理",
-                    "肝癌",
-                    "肝癌復發",
-                    "肝癌的預防",
-                    "肝癌的治療"
-                ],
-                "website": [
-                    "Liver Cancer"
-                ]
-            },
-            {
-                "titles": "肝臟栓塞與肝臟化學栓塞手術詳解",
-                "author": "Cancerfree",
-                "no": 737,
-                "date": "2024/10/07",
-                "tags": [
-                    "繁體中文",
-                    "肝癌",
-                    "肝臟栓塞",
-                    "肝臟栓塞手術",
-                    "化學栓塞",
-                    "住院",
-                    "門診",
-                    "馬克風文件"
-                ],
-                "website": [
-                    "Liver Cancer"
-                ]
-            },
-            {
-                "titles": "肝癌的治療費用：詳細介紹",
-                "author": "Cancerfree",
-                "no": 735,
-                "date": "2024/10/07",
-                "tags": [
-                    "治療",
-                    "醫療",
-                    "肝癌",
-                    "費用",
-                    "保險",
-                    "補助"
-                ],
-                "website": [
-                    "Liver Cancer"
-                ]
-            },
-            {
-                "titles": "深入介紹肝癌中的GOT(AST)和GPT(ALT)正常範圍",
-                "author": "Cancerfree",
-                "no": 731,
-                "date": "2024/10/07",
-                "tags": [
-                    "醫學",
-                    "繁體中文",
-                    "肝癌",
-                    "GOT",
-                    "GPT",
-                    "AST",
-                    "ALT",
-                    "正常範圍"
-                ],
-                "website": [
-                    "Liver Cancer"
-                ]
-            },
-            {
-                "titles": "肝癌的早期症狀：詳細介紹",
-                "author": "Cancerfree",
-                "no": 693,
-                "date": "2024/10/07",
-                "tags": [
-                    "癌症",
-                    "健康",
-                    "醫療",
-                    "早期症狀",
-                    "癌症識別",
-                    "肝癌",
-                    "黃疸",
-                    "肝臟疾病",
-                    "肝細胞癌"
-                ],
-                "website": [
-                    "Liver Cancer"
                 ]
             }
         ]
